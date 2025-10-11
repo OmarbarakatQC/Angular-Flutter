@@ -1,0 +1,9 @@
+[DEBUG] - [11-10-2025 14:45:51] [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml"
+[INFO] - [11-10-2025 14:45:53] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+[INFO] - [11-10-2025 14:45:54] [main] [Utils.Driver] - Driver is initiated as a Chrome driver
+[INFO] - [11-10-2025 14:45:57] [main] [Utils.Waits] - A global implicit wait have been used here with waiting time of 10 sec 
+[INFO] - [11-10-2025 14:45:59] [main] [Utils.Driver] - driver is directed to Home URL https://flutter-angular.web.app/#/
+[INFO] - [11-10-2025 14:45:59] [main] [Utils.Waits] - A global implicit wait have been used here with waiting time of 10 sec 
+[INFO] - [11-10-2025 14:46:00] [main] [Utils.Waits] - A global implicit wait have been used here with waiting time of 10 sec 

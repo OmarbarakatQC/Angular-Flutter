@@ -1,0 +1,12 @@
+[DEBUG] - [11-10-2025 17:15:30] [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml"
+[INFO] - [11-10-2025 17:15:32] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+[INFO] - [11-10-2025 17:15:33] [main] [Utils.Driver] - Driver is initiated as a Chrome driver
+[INFO] - [11-10-2025 17:15:37] [main] [Utils.Waits] - A global implicit wait have been used here with waiting time of 10 sec 
+[INFO] - [11-10-2025 17:15:39] [main] [Utils.Driver] - driver is directed to Home URL https://flutter-angular.web.app/#/
+[INFO] - [11-10-2025 17:15:39] [main] [Utils.Waits] - A global implicit wait have been used here with waiting time of 10 sec 
+[INFO] - [11-10-2025 17:15:39] [main] [PageBase.HomePage] - the listbutton has been clicked 
+[INFO] - [11-10-2025 17:15:39] [main] [Utils.Waits] - A global implicit wait have been used here with waiting time of 10 sec 
+[ERROR] - [11-10-2025 17:15:49] [main] [Utils.ElementActions] - By.xpath: //div[@style='width: 100%; height: 100%; display: block; overflow: hidden; position: relative; cursor: default;']is not found
+[INFO] - [11-10-2025 17:15:49] [main] [PageBase.HomePage] - adding button has been clicked
