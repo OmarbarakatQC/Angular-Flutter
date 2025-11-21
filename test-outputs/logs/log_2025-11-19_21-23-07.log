@@ -1,0 +1,19 @@
+[DEBUG] - [19-11-2025 21:23:07] [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml"
+[INFO] - [19-11-2025 21:23:09] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+[INFO] - [19-11-2025 21:23:10] [main] [Driver.DriverFactory] - browser was selected as Chrome browser
+[INFO] - [19-11-2025 21:23:13] [main] [Driver.DriverManager] - setting the driver
+[INFO] - [19-11-2025 21:23:13] [main] [Driver.DriverManager] - get an instant version of the Driver
+[INFO] - [19-11-2025 21:23:13] [main] [Driver.DriverManager] - get the driver with the selected browser
+[INFO] - [19-11-2025 21:23:13] [main] [Driver.DriverManager] - get the driver with the selected browser
+[INFO] - [19-11-2025 21:23:17] [main] [PageBase.HomePage] - driver is directed to Home URL https://flutter-angular.web.app/#/
+[INFO] - [19-11-2025 21:23:17] [main] [Driver.DriverManager] - get the driver with the selected browser
+[INFO] - [19-11-2025 21:23:21] [main] [Driver.DriverManager] - get the driver with the selected browser
+[INFO] - [19-11-2025 21:23:21] [main] [Driver.DriverManager] - get the driver with the selected browser
+[INFO] - [19-11-2025 21:23:21] [main] [Utils.Waits] - Waiting for an element to be Clickable
+[INFO] - [19-11-2025 21:23:21] [main] [Utils.Waits] - Waiting for an element to be visible
+[INFO] - [19-11-2025 21:23:21] [main] [Utils.Waits] - Waiting for an element to be present
+[INFO] - [19-11-2025 21:23:21] [main] [Driver.DriverManager] - get the driver with the selected browser
+[INFO] - [19-11-2025 21:23:22] [main] [PageBase.HomePage] - adding button has been clicked
+[INFO] - [19-11-2025 21:23:22] [main] [Driver.DriverManager] - get the driver with the selected browser

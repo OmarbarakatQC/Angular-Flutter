@@ -1,0 +1,11 @@
+[DEBUG] - [19-11-2025 21:44:57] [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml"
+[INFO] - [19-11-2025 21:44:59] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+[INFO] - [19-11-2025 21:45:00] [main] [Driver.DriverFactory] - browser was selected as Chrome browser
+[INFO] - [19-11-2025 21:45:03] [main] [Driver.DriverManager] - setting the driver
+[INFO] - [19-11-2025 21:45:03] [main] [Driver.DriverManager] - get an instant version of the Driver
+[INFO] - [19-11-2025 21:45:03] [main] [Driver.DriverManager] - get the driver with the selected browser
+[INFO] - [19-11-2025 21:45:03] [main] [Driver.DriverManager] - get the driver with the selected browser
+[INFO] - [19-11-2025 21:45:11] [main] [PageBase.HomePage] - driver is directed to Home URL https://flutter-angular.web.app/#/
+[INFO] - [19-11-2025 21:45:11] [main] [Driver.DriverManager] - get the driver with the selected browser

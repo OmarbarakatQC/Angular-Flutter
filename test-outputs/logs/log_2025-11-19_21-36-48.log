@@ -1,0 +1,5 @@
+[DEBUG] - [19-11-2025 21:36:49] [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml"
+[INFO] - [19-11-2025 21:36:53] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+[INFO] - [19-11-2025 21:36:56] [main] [Driver.DriverFactory] - browser was selected as Chrome browser
