@@ -40,5 +40,4 @@ public class Logsutils {
         logger().error(String.join("", message));
     }
 
-
 }
